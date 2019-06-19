@@ -3,6 +3,8 @@ This is a simple React-Native application to handle employees. Users need to sig
 
 Functionalities include adding and removing employees. Users can also view an employee's details. 
 
+The application can be easily modified to be a "Todo list app" due to similarities.
+
 # Technologies used
 Firebase is used for authentication and database. 
 
