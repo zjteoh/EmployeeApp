@@ -5,7 +5,7 @@ Functionalities include adding and removing employees. Users can also view an em
 
 # Technologies used
 - React-Native 
-- Firebase is used for authentication and database. 
+- Firebase for authentication and database. 
 
 # What's not done
 - Google sign-in
